@@ -1,4 +1,4 @@
----
+physical rule
 title: Publish to Itch.io
 ---
 
@@ -78,4 +78,6 @@ Now anyone should be able to find and play your browser game on itch.io. We can 
 
 !!! note
 
-    Now your game will appear in the [page games made with GDevelop](https://itch.io/games/made-with-gdevelop).
+    Now your game will appear in the [page games made with GDevelop]
+    this game is made by civil gamer. it has a gaming YouTube channel so please subscribe.
+  (https://youtube.com/@Civil_Gamer?si=GWWtpvHcFFncRo8Z)
